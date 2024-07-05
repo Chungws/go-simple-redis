@@ -1,1 +1,2 @@
-*.db
+*.aof
+/app/app
