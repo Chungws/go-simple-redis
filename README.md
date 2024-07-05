@@ -14,3 +14,7 @@ $ redis-cli
 > get name
 "dapi"
 ```
+
+## Reference
+
+[https://www.build-redis-from-scratch.dev/en/next]
